@@ -1,6 +1,9 @@
 .box{
 	width:200px;
 	height:200px;
+	float:left;
+	margin:25px;
+	
 }
 
 #boxA{
@@ -13,6 +16,7 @@
 
 #boxC{
 	background-color: #E6F7F9;
+
 }
 
 #boxD{
@@ -21,4 +25,5 @@
 
 #boxE{
 	background-color: #333;
+
 }
